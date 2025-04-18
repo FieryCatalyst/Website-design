@@ -21,10 +21,6 @@ This is a fully responsive, single-page HTML & CSS website with light JavaScript
 
 > **Note:** All styling is done via internal CSS. No external frameworks (like Bootstrap) or libraries are used.
 
-## 📸 Preview
-
-![ByteZen Preview](https://your-image-link-if-any.jpg) <!-- Optional if you host a preview -->
-
 ## 🛠️ How to Use
 
 1. Clone or download this repository:
